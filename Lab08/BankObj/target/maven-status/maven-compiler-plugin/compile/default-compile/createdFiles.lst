@@ -1,0 +1,4 @@
+com\mycompany\bankobj\BankAccount.class
+com\mycompany\bankobj\SavingAccount.class
+com\mycompany\bankobj\BankObj.class
+com\mycompany\bankobj\CheckingAccount.class
